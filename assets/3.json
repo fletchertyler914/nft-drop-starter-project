@@ -1,0 +1,23 @@
+{
+  "name": "Tortuga #1",
+  "symbol": "GLASSHOLE",
+  "description": "Glasshole Glass Season 1: Tortuga #1",
+  "seller_fee_basis_points": 500,
+  "image": "3.png",
+  "external_url": "https://glassholeglass.com/",
+  "attributes": [
+    { "value": "1", "trait_type": "SEASON" },
+    { "value": "TORTUGA", "trait_type": "TYPE" }
+  ],
+  "collection": { "name": "Glasshole: Season 1", "family": "Glasshole Glass" },
+  "properties": {
+    "files": [{ "uri": "3.png", "type": "image/png" }],
+    "category": "image",
+    "creators": [
+      {
+        "share": 100,
+        "address": "Ds2DXXbbjXt9k4d98iUGMvKDNFkFugGtxpWym77rfqqV"
+      }
+    ]
+  }
+}

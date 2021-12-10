@@ -1,0 +1,23 @@
+{
+  "name": "Moss Monster #1",
+  "symbol": "GLASSHOLE",
+  "description": "Glasshole Season 1: Moss Monster #1",
+  "seller_fee_basis_points": 500,
+  "image": "0.png",
+  "external_url": "https://glassholeglass.com/",
+  "attributes": [
+    { "value": "1", "trait_type": "SEASON" },
+    { "value": "MOSS MONSTER", "trait_type": "TYPE" }
+  ],
+  "collection": { "name": "Glasshole: Season 1", "family": "Glasshole Glass" },
+  "properties": {
+    "files": [{ "uri": "0.png", "type": "image/png" }],
+    "category": "image",
+    "creators": [
+      {
+        "share": 100,
+        "address": "Ds2DXXbbjXt9k4d98iUGMvKDNFkFugGtxpWym77rfqqV"
+      }
+    ]
+  }
+}
